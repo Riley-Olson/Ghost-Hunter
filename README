@@ -1,0 +1,26 @@
+AUTHOR: RILEY OLSON
+STUDENT ID: 101222234
+
+DESCRIPTION:
+	A ghost hunting simulation
+
+Files Included:
+	Makefile
+	README
+	defs.h
+	ghost.c
+	building.c
+	hunter.c
+	evidence.c
+	main.c
+	room.c
+
+INSTRUCTIONS:
+
+	COMPILING:
+		Open terminal and enter the directory containing the given files. This can be done by entering "cd [path to directory]".
+		Enter "ls" to ensure the files are in the directory.
+		Enter "make" to compile into an executable file name FP.
+
+	LAUNCHING:
+		Enter "./FP" to start running the program.
